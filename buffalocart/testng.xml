@@ -5,5 +5,5 @@
     <classes>
       <class name="com.zoho.testscripts.demo"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite> 
